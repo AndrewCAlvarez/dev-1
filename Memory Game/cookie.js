@@ -2,7 +2,7 @@
 //04/13/2020
 //CGS2829.OM1
 //Walker
-"use strict";
+"use strict"; 
 var getCookieByName = function( name ) {
     var cookies = document.cookie;
     //Starting index
